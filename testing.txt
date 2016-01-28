@@ -1,4 +1,4 @@
-hell      
+hello friends       
 
 the quick brown fox jumps over the lazy dog.
 
@@ -33,3 +33,4 @@ o this thing is just for testing
 Git commands
 Git help for commands
 hope it works
+working well
