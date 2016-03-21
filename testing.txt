@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 changed by me
 
 hell      
+=======
+hello friends       
+>>>>>>> 17bff54fe3c9aadbbb8779206bb9930c4eabe8ef
 
 the quick brown fox jumps over the lazy dog.
 
@@ -30,8 +34,11 @@ the quick brown fox jumps over the lazy dog.
 
 
 
-
+i just changed
 o this thing is just for testing 
 Git commands
 Git help for commands
 hope it works
+working well
+
+jan 29 learning git hub with kajal ji

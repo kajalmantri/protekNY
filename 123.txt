@@ -1,9 +1,22 @@
 hell      
+<<<<<<< HEAD
+
+fkasdf;kaljsdflk
+just testing on 3-21-2016
 jglskfdglksfdjglksjdfgljd
 
+=======
+Editing by Amit Sharma
+hello friends
+>>>>>>> 17bff54fe3c9aadbbb8779206bb9930c4eabe8ef
 just for testing
 o this thing is just for testing 
 Git commands
 Git help for commands
 hope it works
+<<<<<<< HEAD
 hello all
+=======
+
+kuldeep changed
+>>>>>>> 17bff54fe3c9aadbbb8779206bb9930c4eabe8ef
