@@ -1,4 +1,8 @@
 haseeb helping with bucky
 amit is learning with kajal ji
 Happy birthday Haseeb!!
+<<<<<<< HEAD
 Hello
+=======
+paji is absent today
+>>>>>>> 60ac0cdfc09a4d700f86b4663b94a8d586ec33ad
