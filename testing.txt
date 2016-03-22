@@ -1,4 +1,11 @@
+<<<<<<< HEAD
+changed by me
+Hope all is well.
+
+hell      
+=======
 hello friends       
+>>>>>>> 17bff54fe3c9aadbbb8779206bb9930c4eabe8ef
 
 the quick brown fox jumps over the lazy dog.
 

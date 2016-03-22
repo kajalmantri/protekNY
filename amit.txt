@@ -1,6 +1,10 @@
 jan 28 new file added 
 jan 29 haseeb paji birthday 
+<<<<<<< HEAD
 trying to push
 user name - ammusharma
 password @@rav19
 Javascript
+=======
+Amit changed his password and username
+>>>>>>> 18ac75e476434463de71dd0f47441e0d9ca24c35
