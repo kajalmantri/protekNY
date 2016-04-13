@@ -8,3 +8,9 @@ Javascript
 =======
 Amit changed his password and username
 >>>>>>> 18ac75e476434463de71dd0f47441e0d9ca24c35
+
+adding new stuff in this file
+
+
+april 13 
+new file added 
